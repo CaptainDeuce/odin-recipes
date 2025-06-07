@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is to create an HTML page that links to other recipes. This project will help me refine my HTML skills (links, images, bold/italics). It will also present me with more practice for the command line and for utilizing Git and GitHub.
