@@ -42,3 +42,12 @@ h2 {
 p {
     margin: 30px;
 }
+
+ol {
+    margin: 20px;
+    list-style-type: square;
+    font-size: 20px;
+    background-color: lightskyblue;
+    display: inline-block;
+    padding: 20px;
+}
